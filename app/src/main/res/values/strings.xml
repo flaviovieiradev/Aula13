@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Aula13</string>
+    <string name="titulo"> Calculadora </string>
+    <string name="valor1"> Digite 1° Valor </string>
+    <string name="valor2"> Digite 2° Valor </string>
+    <string name="botao"> Calcular </string>
+    <string name="res"> Resultado </string>
+    <string-array name="operacoes">
+        <item> Soma </item>
+        <item> Subtração </item>
+        <item> Multiplicação </item>
+        <item> Divisão </item>
+        <item> Potência </item>
+    </string-array>
+</resources>
